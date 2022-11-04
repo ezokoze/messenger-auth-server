@@ -1,6 +1,6 @@
 const express = require("express");
 const admin = require("firebase-admin");
-const serviceAccount = require("./messenger-react-fitch-firebase-adminsdk-wkz5q-0ba05d5d1e.json");
+const serviceAccount = require("./arbigobblers-afd14a7f0949.json");
 
 const cors = require("cors");
 
